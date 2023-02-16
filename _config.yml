@@ -8,3 +8,6 @@ url: "kamilkot.me"
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+
+header_pages:
+  - about.markdown
